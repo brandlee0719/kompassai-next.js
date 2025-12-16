@@ -1,0 +1,10 @@
+<svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon / hotel_class">
+<mask id="mask0_81_8491" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+<rect id="Bounding box" width="20" height="20" />
+</mask>
+<g mask="url(#mask0_81_8491)">
+<path id="hotel_class" d="M13.9165 12.9167L17.0832 10.2083L19.5832 10.4167L15.9165 13.6042L16.9998 18.3333L14.8748 17.0417L13.9165 12.9167ZM11.9582 6.83333L11.0832 4.79167L12.0415 2.5L13.9582 7.02083L11.9582 6.83333ZM3.604 18.3333L4.95817 12.4792L0.416504 8.54167L6.4165 8.02083L8.74984 2.5L11.0832 8.02083L17.0832 8.54167L12.5415 12.4792L13.8957 18.3333L8.74984 15.2292L3.604 18.3333Z"/>
+</g>
+</g>
+</svg>
